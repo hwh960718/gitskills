@@ -1,2 +1,6 @@
 # gitskills
-create a branch is very quick & simple
+<<<<<<< HEAD
+create a branch is very quick or simple
+=======
+create a branch is very quick and simple
+>>>>>>> feature1
